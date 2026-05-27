@@ -31,5 +31,8 @@ Discord: https://discord.gg/8SgsGsWXn
 
 Current node locations, measured node distances, and possible future expansion are tracked on our [interactive map](MAP.md). The map has three layers: active nodes with hardware info, distance between nodes, and future expansion candidates.
 
-## Project Status
-We are at the start of this journey. Currently looking for interested people and identifying anchor locations to start exploring.
+## Current Needs
+
+**Anchor location testing** — Handley Library is a candidate for a north-end relay node. Looking to test connectivity from that site.
+
+**More node operators** — If you're running a node in the Winchester area or want to, reach out on Discord or Facebook. More fixed nodes spread across the city means better coverage for everyone.
